@@ -36,21 +36,12 @@ Area: 40
 
 ---
 
-### 3. Calculate Simple Interest  
+#### 3. Budget Calculation
 **Description**:  
-Write a program that calculates the simple interest based on the principal, rate of interest, and time period in years.  
+You have a monthly budget of $500. You spent $150 on groceries, $100 on transportation, and $80 on entertainment. Calculate how much money is left in your budget after these expenses.
 
-**Sample Output 1**:  
-Enter the principal amount: 1000  
-Enter the rate of interest: 5  
-Enter the time (in years): 2  
-Interest: 100  
-
-**Sample Output 2**:  
-Enter the principal amount: 1500  
-Enter the rate of interest: 4  
-Enter the time (in years): 3  
-Interest: 180  
+**Expected Output**:  
+`$170`
 
 ---
 
