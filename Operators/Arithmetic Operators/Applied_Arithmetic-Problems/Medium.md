@@ -65,7 +65,7 @@ Time: 5 hours
 
 ---
 
-#### 3. Total Cost of Goods
+#### 5. Total Cost of Goods
 **Description**:  
 You buy 10 items, each costing $15. If the total cost includes a 10% tax, what is the total price?
 
