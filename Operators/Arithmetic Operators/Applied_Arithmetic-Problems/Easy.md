@@ -1,4 +1,6 @@
+# Applied Arithmetic Problems
 
+---
 
 ## **Easy Problems**
 
