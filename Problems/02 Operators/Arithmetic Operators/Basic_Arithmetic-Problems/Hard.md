@@ -12,7 +12,7 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Comp
 Enter x: 3  
 Enter y: 4  
 Enter z: 2  
-Result: 1  
+Result: 0  
 
 **Sample Output 2**:  
 Enter x: 4  
@@ -30,13 +30,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Comp
 Enter x: 2  
 Enter y: 3  
 Enter z: 4  
-Result: 5  
+Result: -5  
 
 **Sample Output 2**:  
 Enter x: 3  
 Enter y: 4  
 Enter z: 2  
-Result: 6  
+Result: 3  
 
 ---
 
@@ -48,13 +48,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Mult
 Enter x: 3  
 Enter y: 2  
 Enter z: 3  
-Result: -0.5  
+Result: 0  
 
 **Sample Output 2**:  
 Enter x: 4  
 Enter y: 5  
 Enter z: 2  
-Result: 15  
+Result: 0.144  
 
 ---
 
@@ -67,14 +67,14 @@ Enter x: 2
 Enter y: 3  
 Enter z: 4  
 Enter w: 5  
-Result: 0  
+Result: 5  
 
 **Sample Output 2**:  
 Enter x: 3  
 Enter y: 2  
 Enter z: 5  
 Enter w: 6  
-Result: 4  
+Result: 0  
 
 ---
 
@@ -87,14 +87,14 @@ Enter x: 3
 Enter y: 5  
 Enter z: 7  
 Enter w: 1  
-Result: 7  
+Result: 9  
 
 **Sample Output 2**:  
 Enter x: 4  
 Enter y: 6  
 Enter z: 8  
 Enter w: 2  
-Result: 20  
+Result: 25  
 
 ---
 
@@ -106,13 +106,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Find
 Enter x: 4  
 Enter y: 3  
 Enter z: 5  
-Result: 29  
+Result: 30  
 
 **Sample Output 2**:  
 Enter x: 5  
 Enter y: 2  
 Enter z: 4  
-Result: 12  
+Result: 8  
 
 ---
 
@@ -130,7 +130,7 @@ Result: 6
 Enter x: 3  
 Enter y: 2  
 Enter z: 3  
-Result: 15  
+Result: 3  
 
 ---
 
@@ -143,14 +143,14 @@ Enter x: 4
 Enter y: 5  
 Enter z: 2  
 Enter w: 3  
-Result: 11  
+Result: 13  
 
 **Sample Output 2**:  
 Enter x: 6  
 Enter y: 3  
 Enter z: 3  
 Enter w: 2  
-Result: 16  
+Result: -0.5  
 
 ---
 
@@ -162,13 +162,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Comp
 Enter x: 2  
 Enter y: 3  
 Enter z: 4  
-Result: 8  
+Result: 0  
 
 **Sample Output 2**:  
 Enter x: 3  
 Enter y: 2  
 Enter z: 5  
-Result: 12  
+Result: 32  
 
 ---
 
@@ -198,13 +198,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Comp
 Enter x: 3  
 Enter y: 4  
 Enter z: 5  
-Result: 14  
+Result: 12  
 
 **Sample Output 2**:  
 Enter x: 2  
 Enter y: 3  
 Enter z: 4  
-Result: 8  
+Result: 9  
 
 ---
 
