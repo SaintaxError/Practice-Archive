@@ -4,256 +4,283 @@
 
 ## **Hard Problems**
 
-### 1. Multiply, Subtract, and Square  
+### 1. Factorials, Exponents, and Modulus
 **Description**:  
-Write a program that accepts two integer inputs, **x** and **y**. Multiply **x** and **y**, then subtract 15, and finally, square the result.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the factorial of **x**, add **y**, raise the result to the power of **z**, and compute the remainder when divided by **y**.
 
 **Sample Output 1**:  
-Enter x: 5  
-Enter y: 3  
-Result: 64  
+Enter x: 3  
+Enter y: 4  
+Enter z: 2  
+Result: 1  
 
 **Sample Output 2**:  
-Enter x: 7  
+Enter x: 4  
 Enter y: 6  
-Result: 144  
+Enter z: 3  
+Result: 0  
 
 ---
 
-### 2. Cube and Multiply  
+### 2. Nested Cubes and Modulus
 **Description**:  
-Write a program that accepts one integer input, **x**. Find the cube of **x**, then multiply the result by 4.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the cube of **x**, add **y**, subtract the cube of **z**, and compute the modulus when divided by the sum of **x** and **z**.
 
 **Sample Output 1**:  
 Enter x: 2  
-Result: 32  
+Enter y: 3  
+Enter z: 4  
+Result: 5  
 
 **Sample Output 2**:  
 Enter x: 3  
-Result: 108  
+Enter y: 4  
+Enter z: 2  
+Result: 6  
 
 ---
 
-### 3. Exponentiation, Subtraction, and Division  
+### 3. Multiply, Divide, and Factorials
 **Description**:  
-Write a program that accepts two integer inputs, **x** and **y**. Find **x** raised to the power of **y**, subtract 10, and divide the result by 2.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Multiply **x** and **y**, subtract the factorial of **z**, then divide by the cube of **y**.
 
 **Sample Output 1**:  
 Enter x: 3  
 Enter y: 2  
-Result: 8  
+Enter z: 3  
+Result: -0.5  
 
 **Sample Output 2**:  
 Enter x: 4  
-Enter y: 3  
-Result: 36  
+Enter y: 5  
+Enter z: 2  
+Result: 15  
 
 ---
 
-### 4. Factorial and Addition  
+### 4. Complex Arithmetic with Powers
 **Description**:  
-Write a program that accepts an integer input, **x**. Find the factorial of **x**, then add 10.  
-
-**Sample Output 1**:  
-Enter x: 4  
-Result: 34  
-
-**Sample Output 2**:  
-Enter x: 5  
-Result: 120  
-
----
-
-### 5. Multiply and Divide with Multiple Numbers  
-**Description**:  
-Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Multiply **x**, **y**, and **z**, then divide the result by **w**.  
+Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Raise **x** to the power of **y**, add the square of **z**, subtract **w**, and compute the modulus when divided by the sum of **y** and **z**.
 
 **Sample Output 1**:  
 Enter x: 2  
 Enter y: 3  
 Enter z: 4  
 Enter w: 5  
-Result: 4.8  
+Result: 0  
 
 **Sample Output 2**:  
 Enter x: 3  
 Enter y: 2  
 Enter z: 5  
-Enter w: 4  
-Result: 7.5  
-
----
-
-### 6. Subtract, Square, and Divide  
-**Description**:  
-Write a program that accepts three integer inputs, **x**, **y**, and **z**. Subtract **y** from **x**, square the result, and divide by **z**.  
-
-**Sample Output 1**:  
-Enter x: 6  
-Enter y: 2  
-Enter z: 4  
+Enter w: 6  
 Result: 4  
 
-**Sample Output 2**:  
-Enter x: 10  
-Enter y: 3  
-Enter z: 5  
-Result: 13  
-
 ---
 
-### 7. Average and Cube  
+### 5. Average, Square, and Subtract
 **Description**:  
-Write a program that accepts three integer inputs, **x**, **y**, and **z**. Find the average of **x**, **y**, and **z**, then cube the result.  
+Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Compute the average of **x**, **y**, **z**, and **w**, subtract the square of **w**, and add the factorial of **x**.
 
 **Sample Output 1**:  
-Enter x: 2  
-Enter y: 4  
-Enter z: 6  
-Result: 216  
-
-**Sample Output 2**:  
 Enter x: 3  
 Enter y: 5  
 Enter z: 7  
-Result: 512  
+Enter w: 1  
+Result: 7  
+
+**Sample Output 2**:  
+Enter x: 4  
+Enter y: 6  
+Enter z: 8  
+Enter w: 2  
+Result: 20  
 
 ---
 
-### 8. Sum of Squares and Subtraction  
+### 6. Factorials, Modulus, and Division
 **Description**:  
-Write a program that accepts three integer inputs, **x**, **y**, and **z**. Find the square of **x** and **y**, then subtract the square of **z** from the sum.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Find the factorial of **x**, divide by **y**, compute the remainder when divided by **z**, and add the cube of **y**.
 
 **Sample Output 1**:  
 Enter x: 4  
-Enter y: 5  
-Enter z: 3  
-Result: 41  
-
-**Sample Output 2**:  
-Enter x: 6  
-Enter y: 7  
-Enter z: 4  
-Result: 61  
-
----
-
-### 9. Multiply, Add, and Subtract  
-**Description**:  
-Write a program that accepts three integer inputs, **x**, **y**, and **z**. Multiply **x** and **y**, add **z**, and subtract 20.  
-
-**Sample Output 1**:  
-Enter x: 6  
 Enter y: 3  
-Enter z: 2  
-Result: 16  
-
-**Sample Output 2**:  
-Enter x: 7  
-Enter y: 4  
-Enter z: 3  
-Result: 31  
-
----
-
-### 10. Factorial and Multiply  
-**Description**:  
-Write a program that accepts an integer input, **x**. Find the factorial of **x**, then multiply the result by 5.  
-
-**Sample Output 1**:  
-Enter x: 4  
-Result: 120  
+Enter z: 5  
+Result: 29  
 
 **Sample Output 2**:  
 Enter x: 5  
-Result: 600  
+Enter y: 2  
+Enter z: 4  
+Result: 12  
 
 ---
 
-### 11. Sum of Cubes and Subtract  
+### 7. Exponents, Squares, and Addition
 **Description**:  
-Write a program that accepts two integer inputs, **x** and **y**. Find the cube of **x** and **y**, add them together, then subtract 50.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute **x** raised to the power of **y**, add the square of **z**, and divide the result by the factorial of **z**.
 
 **Sample Output 1**:  
 Enter x: 2  
 Enter y: 3  
-Result: 23  
-
-**Sample Output 2**:  
-Enter x: 4  
-Enter y: 5  
-Result: 169  
-
----
-
-### 12. Subtract, Square, and Divide by Sum  
-**Description**:  
-Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Subtract **y** from **x**, square the result, and divide by the sum of **z** and **w**.  
-
-**Sample Output 1**:  
-Enter x: 10  
-Enter y: 5  
-Enter z: 3  
-Enter w: 4  
+Enter z: 2  
 Result: 6  
 
 **Sample Output 2**:  
-Enter x: 15  
-Enter y: 8  
-Enter z: 2  
-Enter w: 5  
-Result: 10  
-
----
-
-### 13. Divide and Multiply  
-**Description**:  
-Write a program that accepts two integer inputs, **x** and **y**. Divide **x** by **y**, then multiply the result by 15.  
-
-**Sample Output 1**:  
-Enter x: 30  
-Enter y: 6  
-Result: 75  
-
-**Sample Output 2**:  
-Enter x: 50  
-Enter y: 10  
-Result: 75  
-
----
-
-### 14. Complex Operations with Multiple Inputs  
-**Description**:  
-Write a program that accepts five integer inputs, **x**, **y**, **z**, **a**, and **b**. Multiply **x** and **y**, subtract **z**, divide by **a**, and then add **b**.  
-
-**Sample Output 1**:  
 Enter x: 3  
 Enter y: 2  
+Enter z: 3  
+Result: 15  
+
+---
+
+### 8. Combined Arithmetic with Nested Operations
+**Description**:  
+Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Compute the product of **x** and **y**, subtract the cube of **z**, divide by **w**, and add the square of **w**.
+
+**Sample Output 1**:  
+Enter x: 4  
+Enter y: 5  
+Enter z: 2  
+Enter w: 3  
+Result: 11  
+
+**Sample Output 2**:  
+Enter x: 6  
+Enter y: 3  
+Enter z: 3  
+Enter w: 2  
+Result: 16  
+
+---
+
+### 9. Nested Modulus with Exponents
+**Description**:  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute **x** raised to the power of **y**, find the modulus when divided by **z**, and multiply by the sum of **x** and **z**.
+
+**Sample Output 1**:  
+Enter x: 2  
+Enter y: 3  
 Enter z: 4  
-Enter a: 2  
-Enter b: 5  
+Result: 8  
+
+**Sample Output 2**:  
+Enter x: 3  
+Enter y: 2  
+Enter z: 5  
+Result: 12  
+
+---
+
+### 10. Factorials, Remainders, and Squares
+**Description**:  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the factorial of **x**, find the remainder when divided by **y**, add the square of **z**, and subtract **y**.
+
+**Sample Output 1**:  
+Enter x: 4  
+Enter y: 3  
+Enter z: 2  
 Result: 6  
 
 **Sample Output 2**:  
 Enter x: 5  
-Enter y: 8  
-Enter z: 6  
-Enter a: 3  
-Enter b: 10  
-Result: 24  
+Enter y: 4  
+Enter z: 3  
+Result: 14  
 
 ---
 
-### 15. Subtract, Cube, and Add  
+### 11. Cubes, Modulus, and Addition
 **Description**:  
-Write a program that accepts two integer inputs, **x** and **y**. Subtract **y** from **x**, then cube the result and add 50.  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the cube of **x**, find the modulus when divided by **y**, and add the sum of **y** and **z**.
 
 **Sample Output 1**:  
-Enter x: 6  
-Enter y: 2  
-Result: 158  
+Enter x: 3  
+Enter y: 4  
+Enter z: 5  
+Result: 14  
 
 **Sample Output 2**:  
-Enter x: 8  
+Enter x: 2  
+Enter y: 3  
+Enter z: 4  
+Result: 8  
+
+---
+
+### 12. Nested Factorials and Exponents
+**Description**:  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the factorial of **x**, raise it to the power of **y**, and subtract the square of **z**.
+
+**Sample Output 1**:  
+Enter x: 3  
+Enter y: 2  
+Enter z: 2  
+Result: 34  
+
+**Sample Output 2**:  
+Enter x: 4  
+Enter y: 2  
+Enter z: 3  
+Result: 572  
+
+---
+
+### 13. Nested Factorials, Modulus, and Division
+**Description**:  
+Write a program that accepts three integer inputs, **x**, **y**, and **z**. Find the factorial of **x**, divide it by the square of **y**, compute the modulus when divided by **z**, and then add **z**.
+
+**Sample Output 1**:  
+Enter x: 4  
+Enter y: 2  
+Enter z: 3  
+Result: 4  
+
+**Sample Output 2**:  
+Enter x: 5  
+Enter y: 3  
+Enter z: 4  
+Result: 1  
+
+---
+
+### 14. Complex Exponents and Cubes
+**Description**:  
+Write a program that accepts four integer inputs, **x**, **y**, **z**, and **w**. Compute **x** raised to the power of **y**, subtract the cube of **z**, divide by **w**, and add the factorial of **z**.
+
+**Sample Output 1**:  
+Enter x: 2  
+Enter y: 3  
+Enter z: 2  
+Enter w: 4  
+Result: 4  
+
+**Sample Output 2**:  
+Enter x: 3  
+Enter y: 2  
+Enter z: 3  
+Enter w: 6  
+Result: 3  
+
+---
+
+### 15. Nested Arithmetic with Mixed Operators
+**Description**:  
+Write a program that accepts five integer inputs, **x**, **y**, **z**, **a**, and **b**. Multiply **x** by **y**, add the square of **z**, divide by the sum of **a** and **b**, then compute the remainder when divided by the cube of **b**.
+
+**Sample Output 1**:  
+Enter x: 3  
 Enter y: 4  
-Result: 260  
+Enter z: 5  
+Enter a: 2  
+Enter b: 3  
+Result: 2  
+
+**Sample Output 2**:  
+Enter x: 6  
+Enter y: 2  
+Enter z: 4  
+Enter a: 5  
+Enter b: 2  
+Result: 1  
+
