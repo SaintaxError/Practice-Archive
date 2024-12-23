@@ -3,7 +3,7 @@
 // Expected Output: 18
 #include <stdio.h>
 
-int main(){// START
+int main(){//START
 // SET a = 30, b = 5, c = 12
     int a = 30;
     int b = 5;
