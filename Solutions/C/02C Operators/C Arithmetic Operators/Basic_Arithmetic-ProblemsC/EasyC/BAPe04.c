@@ -3,7 +3,7 @@
 // Expected Output: 36
 #include <stdio.h>
 
-int main(){// START
+int main(){//START
 // SET a = 4, b = 6, c = 3
     int a = 4;
     int b = 6;
@@ -18,4 +18,4 @@ int main(){// START
 
 // OUTPUT result
     printf("The result is: %d", result);
-}// END 
+}//END 
