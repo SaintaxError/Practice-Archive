@@ -38,13 +38,13 @@ double multidivfacto(int x, int y, int z){
     for(int i = 1; i <= z; i++){// Factorial of z: FOR i=1 to z DO
         product = product*i;
         }// ENDFOR
-    printf("%d", product);
+    
 // result = (((x*y)-product)/(y^3))
     result = (double)(product1-product)/(pow(y,3));
-    /* nag-use ko ug double kay my product 1 and product is both integers if you'll look it sa taas (data type sa both), and diba 
-        pow always return man jud double so ma mismatch na siya.
+    /* nag-use ko ug double kay my variable product1 and product is both integers if you'll look it sa taas (data type sa both), 
+    and diba pow always return man jud double so ma mismatch na siya.
         for the variable result para maprovide nako siyag clarity nya di siya magmismatch, ga double ko.
         
-        pwede rajud tawn nako i "double result, product1, product = 1;" WHATEVER */
+        pwede rajud tawn nako i "double result, product1, product = 1;" pero whtever */
     return result;
 }
