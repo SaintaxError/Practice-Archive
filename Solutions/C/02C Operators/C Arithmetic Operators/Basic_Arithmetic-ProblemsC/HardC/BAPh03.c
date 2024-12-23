@@ -41,5 +41,10 @@ double multidivfacto(int x, int y, int z){
     printf("%d", product);
 // result = (((x*y)-product)/(y^3))
     result = (double)(product1-product)/(pow(y,3));
+    /* nag-use ko ug double kay my product 1 and product is both integers if you'll look it sa taas (data type sa both), and diba 
+        pow always return man jud double so ma mismatch na siya.
+        for the variable result para maprovide nako siyag clarity nya di siya magmismatch, ga double ko.
+        
+        pwede rajud tawn nako i "double result, product1, product =1;" WHATEVER */
     return result;
 }
