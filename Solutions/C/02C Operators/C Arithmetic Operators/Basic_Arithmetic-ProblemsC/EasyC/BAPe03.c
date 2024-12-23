@@ -18,5 +18,4 @@ int main(){// START
 // OUTPUT result
     printf("The result is: %d", result);
     return 0;
-    
 }//END
