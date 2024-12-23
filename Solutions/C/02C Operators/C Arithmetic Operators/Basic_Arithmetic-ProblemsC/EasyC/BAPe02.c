@@ -8,10 +8,14 @@ int main(){// START
     int a = 7;
     int b = 20;
     int c = 3;
+    
 // DECLARE result
     int result;
+    
 // SET result and calculate, (20-7)*3
     result = (b-a)*c;
+    
 // OUTPUT result
     printf("The result is: %d", result);
+    
 }// END
