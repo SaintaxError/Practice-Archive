@@ -1,5 +1,6 @@
 // December 23, 2024 - with pseudo
 // Problem: add 12 and 8, then subtract 5.
+// Expected Output: 15
 #include <stdio.h>
 
 int main(){// START
