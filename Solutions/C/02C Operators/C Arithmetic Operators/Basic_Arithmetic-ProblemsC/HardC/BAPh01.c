@@ -52,7 +52,7 @@ factorial, ni sunod rakos expected output */
     result = ((long long)pow((product + y), z)) % y;
 /* "why naay long long beside sa pow?" alang pow returns a double number, nya if the result needs to be stored in an integer type 
   (parehas anang long long), labi na nag modulo ka, nya ang modulo only works with integer types (int, long, etc.).
-  dapat mo cast gyud ug long long. AYAW BUTANGI DIBA BADLUNGON KAS COMPILER KAY SAYOP kay mismatch */
+  dapat mo cast gyud ug long long. AYAW BUTANGI DIBA BADLUNGON KAS COMPILER KAY SAYOP kay mismatch di sila mag abot ug di nimo butangan */
 
     return result;
 }
