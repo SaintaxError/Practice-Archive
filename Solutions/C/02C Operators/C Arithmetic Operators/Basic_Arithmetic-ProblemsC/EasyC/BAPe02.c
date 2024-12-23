@@ -12,7 +12,7 @@ int main(){// START
 // DECLARE result
     int result;
     
-// SET result and calculate, (20-7)*3
+// SET result and calculate, (b-a)*c
     result = (b-a)*c;
     
 // OUTPUT result
