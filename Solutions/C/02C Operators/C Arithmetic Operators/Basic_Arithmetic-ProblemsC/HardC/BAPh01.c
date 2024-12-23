@@ -45,7 +45,7 @@ int finalresult(int x, int y, int z){
     }// ENDFOR
 
 /* pero to avoid overflow pwede ra bitaw mag if statement na if x>20, mo print dayon ug error kay large ra kaayo ang calculation for
-factorial */
+factorial, ni sunod rakos expected output */
 
 // result = product + y
 // result (pow(result,z))%y  
