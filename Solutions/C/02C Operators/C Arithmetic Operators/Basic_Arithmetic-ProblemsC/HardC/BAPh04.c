@@ -5,7 +5,7 @@ Enter x: 2
 Enter y: 3
 Enter z: 4
 Enter w: 5
-Result: 0
+Result: 5
 */
 #include <stdio.h>
 #include <math.h>
