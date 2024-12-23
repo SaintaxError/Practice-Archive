@@ -11,12 +11,12 @@ Write a program that accepts two integer inputs, **x** and **y**. First, add **x
 **Sample Output 1**:  
 Enter x: 5  
 Enter y: 3  
-Result: 16  
+Result: 14  
 
 **Sample Output 2**:  
 Enter x: 7  
 Enter y: 8  
-Result: 33  
+Result: 35  
 
 ---
 
