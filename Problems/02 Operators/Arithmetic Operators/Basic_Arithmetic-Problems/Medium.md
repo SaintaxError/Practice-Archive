@@ -95,14 +95,14 @@ Enter x: 8
 Enter y: 12  
 Enter z: 16  
 Enter w: 20  
-Result: 12  
+Result: 4  
 
 **Sample Output 2**:  
 Enter x: 10  
 Enter y: 15  
 Enter z: 20  
 Enter w: 25  
-Result: 15  
+Result: 7  
 
 ---
 
@@ -143,7 +143,7 @@ Write a program that accepts two integer inputs, **x** and **y**. Multiply **x**
 **Sample Output 1**:  
 Enter x: 10  
 Enter y: 4  
-Result: 22  
+Result: 7  
 
 **Sample Output 2**:  
 Enter x: 5  
@@ -179,12 +179,12 @@ Write a program that accepts two integer inputs, **x** and **y**. Find **x** rai
 **Sample Output 1**:  
 Enter x: 2  
 Enter y: 3  
-Result: 4  
+Result: 0  
 
 **Sample Output 2**:  
 Enter x: 5  
 Enter y: 2  
-Result: 12  
+Result: 2  
 
 ---
 
@@ -200,7 +200,7 @@ Result: 24
 **Sample Output 2**:  
 Enter x: 5  
 Enter y: 6  
-Result: 44  
+Result: 60  
 
 ---
 
