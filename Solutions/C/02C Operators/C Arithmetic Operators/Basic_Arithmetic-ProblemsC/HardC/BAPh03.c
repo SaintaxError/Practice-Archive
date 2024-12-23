@@ -45,6 +45,6 @@ double multidivfacto(int x, int y, int z){
         pow always return man jud double so ma mismatch na siya.
         for the variable result para maprovide nako siyag clarity nya di siya magmismatch, ga double ko.
         
-        pwede rajud tawn nako i "double result, product1, product =1;" WHATEVER */
+        pwede rajud tawn nako i "double result, product1, product = 1;" WHATEVER */
     return result;
 }
