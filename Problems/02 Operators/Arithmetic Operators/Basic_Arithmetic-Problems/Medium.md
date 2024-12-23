@@ -27,12 +27,12 @@ Write a program that accepts two integer inputs, **x** and **y**. Multiply **x**
 **Sample Output 1**:  
 Enter x: 4  
 Enter y: 2  
-Result: 13  
+Result: 7  
 
 **Sample Output 2**:  
 Enter x: 6  
 Enter y: 3  
-Result: 14  
+Result: 9 
 
 ---
 
