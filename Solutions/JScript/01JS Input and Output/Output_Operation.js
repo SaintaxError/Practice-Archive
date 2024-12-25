@@ -11,6 +11,9 @@ console.log("1. Simple Sentence\n");
 console.log("Welcome to the world of programming!");
 
 
+
+
+
 /* Problem: Print a pattern of numbers from 1 to 5 in a simple vertical list. Each number should be on a new line.
 
 Expected Output:
@@ -36,6 +39,9 @@ kada output nimo every newline ana nga nag output ka naa siyay
 newline */
 
 
+
+
+
 /* Problem: Print the list of three movies, each on a new line.
 
 Expected Output:
@@ -49,6 +55,9 @@ console.log("\n3. List of Movies\n");
 console.log("The Matrix");
 console.log("Inception");
 console.log("The Dark Knight");
+
+
+
 
 
 /* Problem: Display a user profile with the following details: Name, Age, Location, Occupation. The output should follow the format shown below.
@@ -67,6 +76,9 @@ console.log("Name: John Doe");
 console.log("Age: 30");
 console.log("Location: New York");
 console.log("Occupation: Developer");
+
+
+
 
 
 /* Problem: Print a simple daily schedule for a student, listing the time and activity.
