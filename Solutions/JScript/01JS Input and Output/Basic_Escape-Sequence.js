@@ -1,4 +1,4 @@
-// December 26, 2024
+// December 26, 2024 - expect daghan kaayo console.log since wala pako kahibaw sa multiline ani na time :3 
 
 /* Problem: Print the following string, using escape sequences to create new lines and tabs:
 
