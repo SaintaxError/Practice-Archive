@@ -1,4 +1,79 @@
-// December 23, 2024 - with pseudo + function
+// December 24, 2024 - with pseudo + function
+9. Nested Modulus with Exponents
+
+#include <stdio.h>
+#include <math.h>
+
+int resultext(int x, int y, int z);
+
+int main(){//START 
+// DECLARE x,y,z
+    int x, y, z;
+// INPUT x,y,z OUTPUT x,y,z
+    printf("Enter x: ");
+    scanf("%d", &x);
+    printf("Enter y: ");
+    scanf("%d", &y);
+    printf("Enter z: ");
+    scanf("%d", &z);
+
+//OUTPUT result
+    printf("Result: %d", resultext(x,y,z));
+}//END
+
+int resultext(int x, int y, int z){
+// SET result and calculate
+// result = pow(x,y)
+// result = (int)result % z
+// result = result * (x+z)
+    int result = (((int)(pow(x,y))%z)*(x+z));
+    return result;
+}
+
+
+
+
+
+10. Factorials, Remainders, and Squares
+
+#include <stdio.h>
+#include <math.h>
+
+int resultext(int x, int y, int z);
+
+int main(){//START 
+// DECLARE x,y,z
+    int x, y, z;
+// INPUT x,y,z OUTPUT x,y,z
+    printf("Enter x: ");
+    scanf("%d", &x);
+    printf("Enter y: ");
+    scanf("%d", &y);
+    printf("Enter z: ");
+    scanf("%d", &z);
+// OUTPUT result
+    printf("Result: %d", resultext(x,y,z));
+}//END
+
+int resultext(int x, int y, int z){
+// SET result and calculate
+    int result;
+    int product = 1;
+// factorial of x (loop)
+    for(int i = 1; i <= x; i++){// FOR i = 1 to x DO
+// product = product * i
+        product *= i;
+    }// ENDFOR
+
+// result = product % y
+// result = (result + (pow(z,2))) - y   
+    result = ((product%y) + (pow(z,2)))-y;
+    return result;
+}
+
+
+
+
 
 11. Cubes, Modulus, and Addition
 
@@ -9,7 +84,7 @@ int resultext(int x, int y, int z);
 
 int main(){//START 
 // DECLARE x,y,z
-    int x,y,z;
+    int x, y, z;
 // INPUT x,y,z OUTPUT x,y,z
     printf("Enter x: ");
     scanf("%d", &x);
@@ -42,7 +117,7 @@ int resultext(int x, int y, int z);
 
 int main(){//START
 // DECLARE x,y,z
-    int x,y,z;
+    int x, y, z;
 // INPUT x,y,z OUTPUT x,y,z
     printf("Enter x: ");
     scanf("%d", &x);
