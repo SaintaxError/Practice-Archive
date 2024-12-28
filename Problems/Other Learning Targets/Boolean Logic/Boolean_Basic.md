@@ -1,4 +1,4 @@
-# Basic: Boolean Operators
+# Basic: Boolean Logic
 ## Problem 1: Integer Equalizer
 ### Description:
 Ask the user to input two integers. Then, print these two integers on the next line separated by a space based on their input order. After that, print "equal" if the two integers are the same. Otherwise, print "not equal".
