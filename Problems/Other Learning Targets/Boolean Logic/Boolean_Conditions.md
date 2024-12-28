@@ -1,4 +1,4 @@
-# Basics of Return Statements: Boolean Operators
+# Conditions: Boolean Operators
 
 ## Problem 1: Integer Equalizer
 ### Description:
