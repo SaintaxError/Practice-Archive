@@ -7,7 +7,7 @@
 int addtwo(int x, int y){
     // add y and x and update x
     // x = x + y
-    return x = x + y;
+    return x += y;
 }
 
 int main(){ //START
@@ -35,7 +35,7 @@ int main(){ //START
 int multiA(int z){
     // multiply z by 5 
     // z = z * 5
-    return z = z * 5;
+    return z *= 5;
 }
 
 int main(){//START
@@ -59,7 +59,7 @@ int main(){//START
 
 int subA(int m){
     // update the new value of m by subtracting it to 8
-    return m = m - 8;
+    return m -= 8;
 }
 
 int main(){//START
@@ -81,7 +81,7 @@ int main(){//START
 
 int divideA(int n){
     // update the value of n by dividing it by 2, use /=
-    return n = n/2;
+    return n /= 2;
 }
 
 int main(){//START
@@ -104,7 +104,7 @@ int main(){//START
 
 int modulusA(int p){
     // update the value of p by finding the remainder when divided by 3
-    return p = p % 3;
+    return p %= 3;
 }
 
 int main(){//START
