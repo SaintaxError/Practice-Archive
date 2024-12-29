@@ -48,12 +48,6 @@ Initial value of m: 20
 After subtraction, m = 12
 ```
 
-### Sample Output 2:
-```
-Initial value of m: 50
-After subtraction, m = 42
-```
-
 ---
 
 ## Problem 4: Divide and Assign
