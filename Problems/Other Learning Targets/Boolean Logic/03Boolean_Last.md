@@ -149,12 +149,15 @@ Ask the user to input their annual income and credit score. Return:
 
 ### Sample Output 1:
 ```
-Enter annual income: 55000 Enter credit score: 750 Loan Approved
+Enter annual income: 55000
+Enter credit score: 750
+Loan Approved
 ```
 ### Sample Output 2:
 ```
 Enter annual income: 45000 
-Enter credit score: 650 Loan Denied
+Enter credit score: 650
+Loan Denied
 ```
 ## Problem 9: Full Access Permission
 ### Description:
