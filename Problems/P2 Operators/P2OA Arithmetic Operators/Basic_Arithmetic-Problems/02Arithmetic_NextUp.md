@@ -2,8 +2,6 @@
 
 ---
 
-## **Medium Problems**
-
 ### 1. Add, Multiply, and Subtract  
 **Description**:  
 Write a program that accepts two integer inputs, **x** and **y**. First, add **x** and **y**, then multiply the sum by 3, and subtract 10 from the result.  
