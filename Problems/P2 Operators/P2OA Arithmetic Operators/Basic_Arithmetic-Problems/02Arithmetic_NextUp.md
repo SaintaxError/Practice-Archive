@@ -41,12 +41,12 @@ Write a program that accepts two integer inputs, **x** and **y**. Find the squar
 **Sample Output 1**:  
 Enter x: 5  
 Enter y: 2  
-Result: 12  
+Result: 14  
 
 **Sample Output 2**:  
 Enter x: 6  
 Enter y: 3  
-Result: 12  
+Result: 14  
 
 ---
 
@@ -58,13 +58,13 @@ Write a program that accepts three integer inputs, **x**, **y**, and **z**. Add 
 Enter x: 2  
 Enter y: 4  
 Enter z: 3  
-Result: 22  
+Result: 8  
 
 **Sample Output 2**:  
 Enter x: 5  
 Enter y: 3  
 Enter z: 2  
-Result: 16  
+Result: 6  
 
 ---
 
@@ -75,7 +75,7 @@ Write a program that accepts two integer inputs, **x** and **y**. Divide **x** b
 **Sample Output 1**:  
 Enter x: 17  
 Enter y: 4  
-Result: 4  
+Result: 1  
 
 **Sample Output 2**:  
 Enter x: 25  
