@@ -2,8 +2,6 @@
 
 ---
 
-## **Hard Problems**
-
 ### 1. Factorials, Exponents, and Modulus
 **Description**:  
 Write a program that accepts three integer inputs, **x**, **y**, and **z**. Compute the factorial of **x**, add **y**, raise the result to the power of **z**, and compute the remainder when divided by **y**.
