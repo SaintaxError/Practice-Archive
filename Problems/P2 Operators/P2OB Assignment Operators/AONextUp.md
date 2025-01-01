@@ -1,4 +1,4 @@
-# Medium: Assignment Operators Problems
+# Assignment Operators Problems
 
 ## Problem 1: Chained Assignment Operations
 ### Description:
