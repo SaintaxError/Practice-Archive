@@ -36,7 +36,7 @@ Area: 40
 
 ---
 
-#### 3. Budget Calculation
+### 3. Budget Calculation
 **Description**:  
 You have a monthly budget of $500. You spent $150 on groceries, $100 on transportation, and $80 on entertainment. Calculate how much money is left in your budget after these expenses.
 
@@ -61,7 +61,7 @@ Temperature in Fahrenheit: 86
 
 ### 5. Calculate the Age of a Person  
 **Description**:  
-Write a program that calculates the age of a person based on their birth year and the current year.  
+Write a program that calculates the age of a person based on their birth year and the current year, 2025.
 
 **Sample Output 1**:  
 Enter the birth year: 1990  
