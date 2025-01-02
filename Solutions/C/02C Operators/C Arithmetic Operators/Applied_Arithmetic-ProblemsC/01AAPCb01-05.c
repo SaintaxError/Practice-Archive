@@ -98,17 +98,11 @@ int age(int birthyear){
     return 2025 - birthyear;
 }
 int main(){
-    // DECLARE BIRTHYEAR
-    // INPUT OUTPUT BIRTHYEAR
     int birthyear;
     
     printf("Enter the birth year: ");
     scanf("%d", &birthyear);
-    
-    // SET AND CALCULATE AGE
-    // age = current date - birthyear
-    
-    // OUPUT age
+
     printf("Your age: %d", age(birthyear));
     return 0;
 }
