@@ -16,17 +16,15 @@ void chainA(int a){
     printf("c = %d", c);
 }
 
-int main(){//START
-// DECLARE SET a = 10
+int main(){
     int a = 10;
-// INPUT OUTPUT a
+
     printf("Initial value of a: ");
     scanf("%d", &a);
 
-// OUTPUT the results
     chainA(a);
-
-}//END
+    return 0;
+}
 
 
 
@@ -38,18 +36,17 @@ int main(){//START
 
 void combined(int x, int y);
 
-int main(){//START
-// DECLARE x,y
+int main(){
     int x, y;
-// INPUT OUTPUT x,y
+    
     printf("Initial value of x: ");
     scanf("%d", &x);
     printf("Initial value of y: ");
     scanf("%d", &y);
     
-// OUTPUT
     combined(x,y);
-}//END
+    return 0;
+}
 
 void combined(int x, int y){
 // update the value of x, subract y from x
@@ -74,15 +71,15 @@ void combined(int x, int y){
 
 void problem3(int z);
 
-int main(){//START
-// DECLARE z
+int main(){
     int z;
-// INPUT OUTPUT z
+
     printf("Initialize value of z: ");
     scanf("%d", &z);
-// call function
+
     problem3(z);
-}//END
+    return 0;
+}
 
 void problem3(int z){
 // update the value of z, by adding 10
@@ -97,7 +94,6 @@ void problem3(int z){
 // update the value of z, divide by 3
     z /= 3;
     printf("After dividing by 3: z = %d", z);
-// print each value of z
 }
 
 
@@ -110,15 +106,15 @@ void problem3(int z){
 
 void complexmod(int n);
 
-int main(){//START
-// DECLARE n 
+int main(){
     int n;
-// INPUT OUTPUT n
+
     printf("Initial value of n: ");
     scanf("%d", &n);
-// call function 
+
     complexmod(n);
-}//END
+    return 0;
+}
 
 void complexmod(int n){
 // update the value of n, divide by 5
@@ -127,7 +123,6 @@ void complexmod(int n){
 // update the n, by finding the remainder when divided by 4
     n %= 4;
     printf("After modulus operation: n = %d", n);
-// print value each step
 }
 
 
@@ -143,19 +138,18 @@ void swap(int p, int q){
     q -= p; // gi una nakong q ug subtract, kay ug mauna kos p, di nako makuhang result, KATAW ANAN NA PROBLEM
             // sige kog bali2 sa p nga akoa giuna, unahon ra diayng q, maya jud nako oy !!!
     p += q; 
-// OUTPUT after swap 
+
     printf("After swap: p = %d, q = %d", p, q);
 }
 
-int main(){//START
-// DECLARE p,q
+int main(){
     int p, q;
-// INPUT OUTPUT p,q
+    
     printf("Enter p: ");
     scanf("%d", &p);
     printf("Enter q: ");
     scanf("%d", &q);
 
-// call function
     swap(p,q);
-}//END
+    return 0;
+}
