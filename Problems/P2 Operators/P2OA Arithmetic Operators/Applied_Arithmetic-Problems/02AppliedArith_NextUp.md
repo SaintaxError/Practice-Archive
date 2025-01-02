@@ -63,7 +63,7 @@ Time: 5 hours
 
 ---
 
-#### 5. Total Cost of Goods
+### 5. Total Cost of Goods
 **Description**:  
 You buy 10 items, each costing $15. If the total cost includes a 10% tax, what is the total price?
 
@@ -166,7 +166,7 @@ Write a program that converts a given amount of dollars into euros based on a fi
 
 **Sample Output 1**:  
 Enter the amount in dollars: 100  
-Amount in euros: 85  
+Amount in euros: 85.0  
 
 **Sample Output 2**:  
 Enter the amount in dollars: 50  
