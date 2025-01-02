@@ -10,19 +10,17 @@ int addtwo(int x, int y){
     return x += y;
 }
 
-int main(){ //START
-// DECLARE x,y
+int main(){
     int x, y;
-// INPUT OUTPUT x,y
+
     printf("x = ");
     scanf("%d", &x);
     printf("y = ");
     scanf("%d", &y);
     
-// OUTPUT x
     printf("After addition, x = %d", addtwo(x,y));
     return 0;
-}//END
+}
 
 
 
@@ -38,16 +36,15 @@ int multiA(int z){
     return z *= 5;
 }
 
-int main(){//START
-// DECLARE z
+int main(){
     int z;
-// INPUT OUTPUT z
+
     printf("Initial value of z: ");
     scanf("%d", &z);
     
-// OUTPUT z
     printf("After multiplication, z = %d", multiA(z));
-}//END
+    return 0;
+}
 
 
 
@@ -62,14 +59,14 @@ int subA(int m){
     return m -= 8;
 }
 
-int main(){//START
-// DECLARE and SET m = 20
+int main(){
     int m = 20;
-// OUTPUT m
+
     printf("Initial value of m: %d\n", m);
-// OUTPUT m
+
     printf("After subtraction, m = %d", subA(m));
-}//END
+    return 0;
+}
 
 
 
@@ -84,15 +81,15 @@ int divideA(int n){
     return n /= 2;
 }
 
-int main(){//START
-// DECLARE n;
+int main(){
     int n;
-// INPUT OUTPUT n
+    
     printf("Initialize value of n: ");
     scanf("%d", &n);
-// OUTPUT n
+
     printf("After division, n = %d", divideA(n));
-}//END
+    return 0;
+}
 
 
 
@@ -107,12 +104,12 @@ int modulusA(int p){
     return p %= 3;
 }
 
-int main(){//START
-// DECLARE p 
+int main(){
     int p;
-// INPUT OUTPUT p
+
     printf("Initial value of p: ");
     scanf("%d", &p);
-// OUTPUT p
+
     printf("After modulus operation, p = %d", modulusA(p));
-}//END
+    return 0;
+}
