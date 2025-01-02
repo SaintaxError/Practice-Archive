@@ -1,5 +1,3 @@
-## **Medium Problems**
-
 ### 1. Calculate Monthly Salary  
 **Description**:  
 Write a program that calculates the monthly salary of an employee after deducting tax. The tax rate depends on the salary range:  
