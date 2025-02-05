@@ -11,9 +11,6 @@
 **Sample Output 1:**  
 `Sum: 21`
 
-**Sample Output 2:**  
-`Sum: 21`
-
 ---
 
 ### **Problem 2: Find Maximum Element**
@@ -24,9 +21,6 @@
 `arr = [[1, 7], [3, 9], [2, 5]]`
 
 **Sample Output 1:**  
-`Max: 9`
-
-**Sample Output 2:**  
 `Max: 9`
 
 ---
@@ -41,9 +35,6 @@
 **Sample Output 1:**  
 `Min: 1`
 
-**Sample Output 2:**  
-`Min: 1`
-
 ---
 
 ### **Problem 4: Count Even Numbers**
@@ -54,9 +45,6 @@
 `arr = [[1, 2], [3, 4], [5, 6]]`
 
 **Sample Output 1:**  
-`Count of even numbers: 3`
-
-**Sample Output 2:**  
 `Count of even numbers: 3`
 
 ---
@@ -71,9 +59,6 @@
 **Sample Output 1:**  
 `Count of odd numbers: 3`
 
-**Sample Output 2:**  
-`Count of odd numbers: 3`
-
 ---
 
 ### **Problem 6: Transpose the Matrix**
@@ -84,9 +69,6 @@
 `arr = [[1, 2, 3], [4, 5, 6]]`
 
 **Sample Output 1:**  
-`Transposed Matrix: [[1, 4], [2, 5], [3, 6]]`
-
-**Sample Output 2:**  
 `Transposed Matrix: [[1, 4], [2, 5], [3, 6]]`
 
 ---
@@ -101,8 +83,6 @@
 **Sample Output 1:**  
 `Row sums: [6, 15, 24]`
 
-**Sample Output 2:**  
-`Row sums: [6, 15, 24]`
 
 ---
 
@@ -116,8 +96,7 @@
 **Sample Output 1:**  
 `Column sums: [12, 15, 18]`
 
-**Sample Output 2:**  
-`Column sums: [12, 15, 18]`
+
 
 ---
 
@@ -131,8 +110,7 @@
 **Sample Output 1:**  
 `Diagonal sum: 15`
 
-**Sample Output 2:**  
-`Diagonal sum: 15`
+
 
 ---
 
@@ -146,8 +124,6 @@
 **Sample Output 1:**  
 `Rotated Matrix: [[7, 4, 1], [8, 5, 2], [9, 6, 3]]`
 
-**Sample Output 2:**  
-`Rotated Matrix: [[7, 4, 1], [8, 5, 2], [9, 6, 3]]`
 
 ---
 
@@ -159,9 +135,6 @@
 `arr = [[1, 2], [3, 4], [5, 6]], target = 4`
 
 **Sample Output 1:**  
-`Found: Yes`
-
-**Sample Output 2:**  
 `Found: Yes`
 
 ---
@@ -176,8 +149,7 @@
 **Sample Output 1:**  
 `Modified Array: [[0, 2], [3, 0], [5, 6]]`
 
-**Sample Output 2:**  
-`Modified Array: [[0, 2], [3, 0], [5, 6]]`
+
 
 ---
 
@@ -191,8 +163,6 @@
 **Sample Output 1:**  
 `Count of elements greater than 4: 4`
 
-**Sample Output 2:**  
-`Count of elements greater than 4: 4`
 
 ---
 
@@ -206,8 +176,6 @@
 **Sample Output 1:**  
 `Symmetric: Yes`
 
-**Sample Output 2:**  
-`Symmetric: Yes`
 
 ---
 
@@ -221,8 +189,6 @@
 **Sample Output 1:**  
 `Result: [[19, 22], [43, 50]]`
 
-**Sample Output 2:**  
-`Result: [[19, 22], [43, 50]]`
 
 ---
 
@@ -236,8 +202,6 @@
 **Sample Output 1:**  
 `Identity Matrix: Yes`
 
-**Sample Output 2:**  
-`Identity Matrix: Yes`
 
 ---
 
@@ -249,9 +213,6 @@
 `arr = [[1, 2], [3, 4]], constant = 2`
 
 **Sample Output 1:**  
-`New Array: [[2, 4], [6, 8]]`
-
-**Sample Output 2:**  
 `New Array: [[2, 4], [6, 8]]`
 
 ---
@@ -266,8 +227,6 @@
 **Sample Output 1:**  
 `Column sums: [12, 15, 18]`
 
-**Sample Output 2:**  
-`Column sums: [12, 15, 18]`
 
 ---
 
@@ -281,9 +240,6 @@
 **Sample Output 1:**  
 `Square Matrix: Yes`
 
-**Sample Output 2:**  
-`Square Matrix: Yes`
-
 ---
 
 ### **Problem 20: Find the Trace of the Matrix**
@@ -295,9 +251,5 @@
 
 **Sample Output 1:**  
 `Trace: 5`
-
-**Sample Output 2:**  
-`Trace: 5`
-
 ---
 
