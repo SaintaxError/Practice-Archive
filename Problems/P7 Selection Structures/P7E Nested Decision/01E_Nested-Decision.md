@@ -73,6 +73,8 @@ Ask the user for their numeric grade (0-100) and categorize it:
   - If it's 60-69, print "D - Needs improvement."
   - If it's below 60, print "F - Failed. Study harder."
 - If the input is negative or above 100, print "Invalid grade."
+- Additional Details:
+Assume the user's current balance is stored in a variable (e.g., balance = 5000).
 
 **Sample Output:**
 ```
@@ -96,7 +98,7 @@ Ask the user to enter their salary and calculate tax:
 
 **Sample Output:**
 ```
-Enter your salary: 45,000
+Enter your salary: 45000
 Tax: 4500 (10%)
 ```
 ```
