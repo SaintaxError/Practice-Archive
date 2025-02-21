@@ -138,7 +138,7 @@ Write a program that **counts how many special symbols** (punctuation, etc.) exi
 **Sample Output 1:**  
 ```
 Enter a string: Hi! How are you?
-Special characters: 3
+Special characters: 2
 ```
 **Sample Output 2:**  
 ```
