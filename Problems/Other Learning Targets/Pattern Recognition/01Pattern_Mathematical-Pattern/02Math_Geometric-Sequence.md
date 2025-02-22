@@ -34,7 +34,7 @@ Enter the number of terms: 4
 Enter the first term: 2
 Enter the common ratio: 5
 Enter the number of terms: 3
-125 25 5
+50 10 2
 ```
 
 ## 3. Sum of Geometric Sequence
@@ -51,7 +51,7 @@ Enter the number of terms: 4
 Enter the first term: 5
 Enter the common ratio: 3
 Enter the number of terms: 3
-95
+65
 ```
 
 ## 4. Nth Term in a Geometric Sequence
@@ -88,7 +88,7 @@ Enter the number of terms: 4
 Enter the first term: 8
 Enter the common ratio: 0.2
 Enter the number of terms: 3
-8 1.6 0.32
+8 1.60 0.32
 ```
 
 ## 6. Find Missing Term in Geometric Sequence
