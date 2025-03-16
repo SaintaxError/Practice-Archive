@@ -191,27 +191,36 @@ int main(){
 #include <stdio.h>
 #include <string.h>
 
-void check(char ch, char str[]){
-    for(int i = 0; str[i] != '\0'; i++){
-        if(str[i] == ch){
-            printf("Character found at position: %d", i+1);
-            break;
-        }else{
-            printf("Character not found.");
-            break;
+void check(char ch, char str[]) {
+    int found = 0;  
+
+    for (int i = 0; str[i] != '\0'; i++) {
+        if (str[i] == ch) {
+            printf("Character found at position: %d\n", i + 1);
+            found = 1; 
         }
+    }
+
+    if (!found) {
+        printf("Character not found.\n");
     }
 }
 
-int main(){
+int main() {
     char ch, str[50];
+
     printf("Enter a string: ");
-    fgets(str,sizeof(str), stdin);
-    str[strcspn(str, "\n")] = '\0';
+    fgets(str, sizeof(str), stdin);
+    str[strcspn(str, "\n")] = '\0';  
+
     printf("Enter a character: ");
-    scanf("%c", &ch);
+    scanf(" %c", &ch);  
+
     check(ch, str);
+
+    return 0;
 }
+
 
 
 10. Removing Spaces from a String
