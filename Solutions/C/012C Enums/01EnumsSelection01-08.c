@@ -1,6 +1,8 @@
 /* April 26, 2025 - practicing enum with multiple functions to use sa mga mo sunod na problems para maanad mo basag code, 
 also practicing clean and organize codes, next will be enums with SELECTION + ARRAYS*/
 
+1.
+    
 #include <stdio.h>
 
 enum moodChecker{ // first declaration
@@ -42,6 +44,11 @@ int main(){
 
 
 
+
+
+
+2. Pizza Night or Not? 
+
 #include <stdio.h>
 
 enum PizzaDay{
@@ -70,6 +77,9 @@ int main(){
 
 
 
+
+3. Week Schedule  
+    
 #include <stdio.h>
 
 enum daysWeek{
@@ -117,10 +127,14 @@ int main(){
 }
 
 
+
+
+
 // Resume - April 27, 2025 hahahha nakatug ko
 
-4.
- #include <stdio.h>
+4. Animals and their Sounds
+    
+#include <stdio.h>
 
 enum selectionAnimals {
     DOG,
@@ -177,7 +191,12 @@ int main(){ // limpyohas main function ahh, me na to
 
 
 
-5. 
+
+
+
+
+5. Coffee Menu
+    
 #include <stdio.h>
 
 enum ourMenu{
@@ -233,7 +252,13 @@ int main(){
 }
 
 
-6.
+
+
+
+
+
+6. Day Planner
+    
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -344,7 +369,12 @@ int main() {
 
 
 
-7.
+
+
+
+
+
+7. Movie Genre and its Recommendations
 
   // 8 functions
   
@@ -460,6 +490,8 @@ int main(){
     
     goodbyeMessage(); //amen     
 }
+
+
 
 
 
